@@ -1,17 +1,18 @@
 {
-  "name": "command-executor",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Ildar Sharapov",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.2.15"
-  },
-  "devDependencies": {
-    "@types/inquirer": "^9.0.7"
-  }
+	"name": "command-executor",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Ildar Sharapov",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^8.0.0"
+	},
+	"devDependencies": {
+		"@types/inquirer": "^9.0.7",
+		"@types/node": "^17.0.14"
+	}
 }
